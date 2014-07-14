@@ -65,7 +65,7 @@ Sample running of the script:
 > source("run_analysis.R")
 [1] "Coursera: Getting and Cleaning Data"
 [1] "Course project by Roland Labana"
-[1] "Make sure the 'run_analysis.R' script is in the 'UCI HAR Datset' folder to run."
+[1] "Easiest way to run script is to make sure the 'run_analysis.R' script is in the 'UCI HAR Datset."
 [1] "Also make sure that the working directory is set to the same."
 [1] "Reading the data from training and test sets and combining into one table..."
 [1] "     Data is being read from the files containing Subject IDs, Activity and the Sensor Values"
