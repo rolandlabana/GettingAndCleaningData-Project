@@ -3,9 +3,10 @@ README for Coursera Getting and Cleaning Data - Course Project
 
 **Submitted by Roland Labana** July 2014  
   
-**IMPORTANT:** To run the 'run_Analysis.R' script, the script should be located in the  
-'UCI HAR Datset' folder. The 'test' and 'train' folders should also be in the 'UCI HAR Datset' folder.
-
+**NOTE:** To run the 'run_Analysis.R' script, the script should be located anywhere and the working
+directory should be set to a folder containing the 'test' and 'train' data as well as the file 'features.txt.'
+If there is any problem, try just placing the script in the 'UCI HAR Datset' folder and set your working directory
+to this.  All the files are already in the folder and in the expected structure.
 
 The assignment for this project is to create one R script called run_analysis.R that does the following: 
 - Merges the training and the test sets to create one data set.
