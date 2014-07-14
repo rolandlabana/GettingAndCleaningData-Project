@@ -60,7 +60,7 @@ showIntroMsg <- function () {
   
   print("Coursera: Getting and Cleaning Data")
   print("Course project by Roland Labana")
-  print("Make sure the 'run_analysis.R' script is in the 'UCI HAR Datset' folder to run.")
+  print("Easiest way to run script is to make sure the 'run_analysis.R' script is in the 'UCI HAR Datset.")
   print("Also make sure that the working directory is set to the same.")
   
   print("Reading the data from training and test sets and combining into one table...")
